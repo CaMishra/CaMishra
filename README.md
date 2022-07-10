@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Candan-Mishra
+- 👋 Hi, I’m Chandan Mishra
 - 👀 I’m interested in Software Engineering/Software Development roles.
 - 🌱 I’m currently exploring different courses in Computer Science domain
 - 💞️ I’m looking to collaborate on ...
